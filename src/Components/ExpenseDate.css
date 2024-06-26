@@ -1,0 +1,10 @@
+.date-bg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 5px;
+    width: 70px;
+    border: 2px solid rgb(51, 50, 50);
+    background-color: rgb(63, 62, 62);
+}
